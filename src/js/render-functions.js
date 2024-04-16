@@ -1,4 +1,3 @@
-//В файле render-functions.js создай функции для отображения элементов
 export function createMarkup(arr) {
   return arr
     .map(
